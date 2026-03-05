@@ -36,6 +36,7 @@ import { fr_CH } from "@/keyboardLayouts/fr_CH";
 import { fr_FR } from "@/keyboardLayouts/fr_FR";
 import { it_IT } from "@/keyboardLayouts/it_IT";
 import { nb_NO } from "@/keyboardLayouts/nb_NO";
+import { ru_RU } from "@/keyboardLayouts/ru_RU";
 import { sv_SE } from "@/keyboardLayouts/sv_SE";
 import { da_DK } from "@/keyboardLayouts/da_DK";
 import { ja_JP } from "@/keyboardLayouts/ja_JP";
@@ -53,6 +54,7 @@ export const keyboards: KeyboardLayout[] = [
   fr_FR,
   it_IT,
   nb_NO,
+  ru_RU,
   sv_SE,
   da_DK,
   ja_JP,
